@@ -1,5 +1,10 @@
 kmlml
-.m.s,s
+
+Scanner input = new Scanner(System.in);
+String inputLine = input.nextLine();
+String[] tokens = inputLine.split("[, ;]+");
+
+ . .. aa
 
 
 s,m.a, msx., mas
