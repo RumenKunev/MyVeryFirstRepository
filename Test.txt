@@ -9,3 +9,9 @@ String[] tokens = inputLine.split("[, ;]+");
 
 Tozi red go iztrih na localnoto repository.
 
+
+Vsichko se poluчи ОК. 
+Кирилица ОК.
+
+
+
