@@ -7,4 +7,5 @@ String[] tokens = inputLine.split("[, ;]+");
  . .. aa
 
 
-s,m.a, msx., mas
+Tozi red go iztrih na localnoto repository.
+
