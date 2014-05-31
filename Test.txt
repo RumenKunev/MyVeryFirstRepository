@@ -4,7 +4,6 @@ Scanner input = new Scanner(System.in);
 String inputLine = input.nextLine();
 String[] tokens = inputLine.split("[, ;]+");
 
- . .. aa
 
 
 Tozi red go iztrih na localnoto repository.
