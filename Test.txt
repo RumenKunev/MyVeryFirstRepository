@@ -1,12 +1,10 @@
-kmlml
+﻿kmlml
 
 Scanner input = new Scanner(System.in);
 String inputLine = input.nextLine();
 String[] tokens = inputLine.split("[, ;]+");
 
-
-
-Tozi red go iztrih na localnoto repository.
+Dobavih redove ot localnoto repositoryyyyyyyyyyy........
 
 
 Vsichko se poluчи ОК. 
