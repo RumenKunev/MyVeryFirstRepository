@@ -4,7 +4,10 @@ Scanner input = new Scanner(System.in);
 String inputLine = input.nextLine();
 String[] tokens = inputLine.split("[, ;]+");
 
-Dobavih redove ot localnoto repositoryyyyyyyyyyy........
+Iztrih wrong data.
+
+
+knkn;knlnlnln
 
 
 Vsichko se poluчи ОК. 
